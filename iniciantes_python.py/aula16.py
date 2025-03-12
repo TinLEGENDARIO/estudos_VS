@@ -24,3 +24,15 @@ if 10 == 10:
 print('Fora do if')
 
 #####################################
+
+c = False
+
+if c:
+    print('C é verdadeiro')
+    print(1)
+else:
+    print('C é falso')
+    print(2)
+if 10 == 10:
+    print('10 é igual a 10')
+    print(3)
