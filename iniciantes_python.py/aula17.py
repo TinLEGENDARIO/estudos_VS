@@ -15,3 +15,4 @@ menor_ou_igual = 2 <= 2
 igual = 'a' == 'a'
 diferente = 'a' != 'b'
 print('Olha meu print aqui')
+print(maior, maior_ou_igual, menor, menor_ou_igual, igual, diferente)
